@@ -1,0 +1,22 @@
+{
+  "name": "fs-queued",
+  "version": "1.0.0",
+  "description": "Never worry about file conflicts again",
+  "main": "fs-queued.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greencoder001/fs-queued.git"
+  },
+  "author": "greencoder001",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greencoder001/fs-queued/issues"
+  },
+  "homepage": "https://github.com/greencoder001/fs-queued#readme",
+  "dependencies": {
+    "runjob": "^1.1.2"
+  }
+}
